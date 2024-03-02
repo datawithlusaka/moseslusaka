@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/fuehrer" target="blank"><img src="https://img.shields.io/twitter/follow/fuehrer?logo=twitter&style=for-the-badge" alt="fuehrer" /></a> </p>
 
-- 💬 Ask me about **Excel, Power Bi**
+- 💬 Ask me about **Excel, Power Bi, SQL**
 
 - 📫 How to reach me **moseslusaka01@gmail.com**
 
